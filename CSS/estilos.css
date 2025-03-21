@@ -37,7 +37,7 @@ footer {
   justify-content: center; /* Centra los elementos horizontalmente */
   align-items: flex-start; /* Alinea los elementos en la parte superior */
   flex-grow: 1; /* Permite que el contenedor crezca y empuje el footer hacia abajo */
-  min-height: 800px; /* Aumenta el tamaño del contenedor */
+  min-height: 1000px; /* Aumenta el tamaño del contenedor */
 
 }
 
@@ -66,7 +66,7 @@ nav {
 main {
   background-color: #ecf0f1; /* Color de fondo gris claro */
   flex-grow: 2; /* Ocupa el espacio restante */
-  height: 800px; /* Altura fija del main */
+  height: 1000px; /* Altura fija del main */
 }
 
 /* Barra lateral (aside) */
