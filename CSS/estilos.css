@@ -59,7 +59,7 @@ nav {
   padding: 20px; /* Espaciado interno reducido */
   flex-basis: 100px; /* Ancho base del nav */
   flex-shrink: 0; /* Evita que el nav se encoja */
-  height: 155px; /* Altura fija del nav */
+  height: 165px; /* Altura fija del nav */
 }
 
 /* Contenido principal (main) */
@@ -78,7 +78,7 @@ aside {
   flex-grow: 1; /* Ensancha el aside */
   flex-basis: 200px; /* Ancho base del aside */
   flex-shrink: 0; /* Evita que el aside se encoja */
-  height: 185px; /* Altura fija del aside */
+  height: 190px; /* Altura fija del aside */
 }
 
 /*media query*/
